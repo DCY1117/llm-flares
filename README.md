@@ -17,4 +17,5 @@ For more information about the challenge, please visit: [FLARES-Challenge](https
 - **Mistral-models:** Notebooks for fine-tuning and results of the Mistral-7b model.
 - **evaluate_subtask_1.py, evaluate_subtask_2.py, evaluation_metric_template_kaggle_subtask_1.py, evaluation_metric_template_kaggle_subtask_2.py:** Official code files for subtask testing and evaluation (https://github.com/rsepulveda911112/Flares-dataset).
 
-
+## Acknowledgements
+- Mistral fine-tuning notebooks: https://github.com/brevdev/notebooks/tree/main
